@@ -1,0 +1,14 @@
+C:\Users\Quinn\Downloads\Movie-Test\bin\Debug\net6.0\Movie-Test.exe
+C:\Users\Quinn\Downloads\Movie-Test\bin\Debug\net6.0\Movie-Test.deps.json
+C:\Users\Quinn\Downloads\Movie-Test\bin\Debug\net6.0\Movie-Test.runtimeconfig.json
+C:\Users\Quinn\Downloads\Movie-Test\bin\Debug\net6.0\Movie-Test.dll
+C:\Users\Quinn\Downloads\Movie-Test\bin\Debug\net6.0\Movie-Test.pdb
+C:\Users\Quinn\Downloads\Movie-Test\obj\Debug\net6.0\Movie-Test.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Quinn\Downloads\Movie-Test\obj\Debug\net6.0\Movie-Test.AssemblyInfoInputs.cache
+C:\Users\Quinn\Downloads\Movie-Test\obj\Debug\net6.0\Movie-Test.AssemblyInfo.cs
+C:\Users\Quinn\Downloads\Movie-Test\obj\Debug\net6.0\Movie-Test.csproj.CoreCompileInputs.cache
+C:\Users\Quinn\Downloads\Movie-Test\obj\Debug\net6.0\Movie-Test.dll
+C:\Users\Quinn\Downloads\Movie-Test\obj\Debug\net6.0\refint\Movie-Test.dll
+C:\Users\Quinn\Downloads\Movie-Test\obj\Debug\net6.0\Movie-Test.pdb
+C:\Users\Quinn\Downloads\Movie-Test\obj\Debug\net6.0\Movie-Test.genruntimeconfig.cache
+C:\Users\Quinn\Downloads\Movie-Test\obj\Debug\net6.0\ref\Movie-Test.dll
